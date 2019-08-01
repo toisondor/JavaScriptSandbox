@@ -1,5 +1,5 @@
 // JavaScript Document 
-// Use with index5.php and styles3.css
+// Use with index.php and styles.css
 
 "use strict";
 
